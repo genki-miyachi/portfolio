@@ -66,7 +66,7 @@ const Engineering: NextPage = () => {
 							<SkillGauge
 								skill_name={"React(TypeScript)"}
 								skill_icon={"/react_icon.png"}
-								skill_level={40}
+								skill_level={50}
 							/>
 							<SkillGauge
 								skill_name={"Figma"}
@@ -76,12 +76,12 @@ const Engineering: NextPage = () => {
 							<SkillGauge
 								skill_name={"HTML"}
 								skill_icon={"/html_icon.png"}
-								skill_level={70}
+								skill_level={90}
 							/>
 							<SkillGauge
 								skill_name={"CSS"}
 								skill_icon={"/css_icon.png"}
-								skill_level={80}
+								skill_level={88}
 							/>
 							<div className='self-stretch h-20 relative hidden'>
 								<div className='absolute top-[0px] left-[0px] flex flex-row items-center justify-start gap-[16px] w-full h-full'>
@@ -102,12 +102,12 @@ const Engineering: NextPage = () => {
 							<SkillGauge
 								skill_name={"AWS"}
 								skill_icon={"/aws_icon.png"}
-								skill_level={40}
+								skill_level={50}
 							/>
 							<SkillGauge
 								skill_name={"Terraform"}
 								skill_icon={"/terraform_icon.png"}
-								skill_level={40}
+								skill_level={15}
 							/>
 						</div>
 					</section>
