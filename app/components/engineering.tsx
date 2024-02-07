@@ -28,7 +28,7 @@ const Engineering: NextPage = () => {
 						<h1 className='m-0 w-[623px] relative text-inherit font-bold font-inherit inline-block max-w-full mq450:text-4 mq1050:text-21xl'>
 							Engineering
 						</h1>
-						<div className='self-stretch h-60 relative text-13xl inline-block mq450:text-lgi mq1050:text-7xl pb-16'>
+						<div className='self-stretch relative text-13xl inline-block mq450:text-lgi mq1050:text-7xl pb-16'>
 							{body.split("\n").map((line, index) => (
 								<p
 									className='m-0'
